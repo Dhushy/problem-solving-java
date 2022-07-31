@@ -4,7 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import com.code.coinChange.FindMinimumCoins;
+
+import com.code.assesment.coinChange.FindMinimumCoins;
 
 
 @SpringBootTest

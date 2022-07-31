@@ -1,4 +1,4 @@
-package com.code.coinChange;
+package com.code.assesment.coinChange;
 
 import java.util.Scanner;
 import java.util.Vector;
